@@ -1,8 +1,8 @@
 
  <!doctype html><html lang="vi"><head >  <meta charset="utf-8"/>
 <meta name="title" content="Customer Login"/>
-<meta name="description" content="Siêu thị đồ chơi trẻ em Kidsland với 10.000 sản phẩm được nhập khẩu chính hãng, chính ngạch, đảm bảo an toàn từ Nhật Bản, Mỹ, Châu Âu, Hàn Quốc."/>
-<meta name="keywords" content="đồ chơi trẻ em, đồ chơi cao cấp, đồ chơi chính hãng, đồ chơi nhập khẩu, đồ chơi xịn, đồ chơi Mỹ, đồ chơi Nhật Bản, đồ chơi Hàn Quốc."/>
+<meta name="description" content="MaiLand children's toy supermarket with 10,000 products imported genuine, official and safe from Japan, USA, Europe, South Korea."/>
+<meta name="keywords" content="baby toys, high quality toys, genuine toys, imported toys, genuine toys, American toys, Japanese toys, Korean toys."/>
 <meta name="robots" content="INDEX,FOLLOW"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 <meta name="format-detection" content="telephone=no"/>
@@ -30,8 +30,8 @@
         <a href="#" class="level-top"><span>Features</span></a>
     </li>
 </ul></nav></div>  <div class="section-item-title nav-sections-item-title" data-role="collapsible"><a class="nav-sections-item-switch" data-toggle="switch" href="#store.links">Account</a></div><div class="section-item-content nav-sections-item-content" id="store.links" data-role="content"><!-- Account links --></div> </div></div></div><div class="custom-menu-block"><div class="custom_menu_block">
- <a href="https://kidsland.vn/brand">Thương hiệu</a> 
- <a href="https://kidsland.vn/lego.html">Đồ chơi Lego</a>
+ <a href="https://kidsland.vn/brand">Brand</a> 
+ <a href="https://kidsland.vn/lego.html">Lego toys</a>
 </div></div></div></div></div></header> <main id="maincontent" class="page-main"> <a id="contentarea" tabindex="-1"></a>  <div class="page-title-wrapper"><h1 class="page-title"  ><span class="base" data-ui-id="page-title-wrapper" >Customer Login</span></h1></div><div class="page messages"> <div data-placeholder="messages"></div> <div data-bind="scope: 'messages'"><!-- ko if: cookieMessages && cookieMessages.length > 0 --><div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages"><div data-bind="attr: { class: 'message-' + message.type + ' ' + message.type + ' message', 'data-ui-id': 'message-' + message.type }"><div data-bind="html: message.text"></div></div></div><!-- /ko --><!-- ko if: messages().messages && messages().messages.length > 0 --><div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages"><div data-bind="attr: { class: 'message-' + message.type + ' ' + message.type + ' message', 'data-ui-id': 'message-' + message.type }"><div data-bind="html: message.text"></div></div></div><!-- /ko --></div></div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="5gfLwC8JCtVbj4TV" /> <div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;"><!-- ko template: getTemplate() --><!-- /ko --></div>      <div data-mage-init='{"Mirasvit_CacheWarmer\/js\/track":{"pageType":"customer_account_login","url":"https:\/\/kidsland.vn\/cache_warmer\/track\/","cookieName":"mst-cache-warmer-track","cookieValue":"1594090024268.576"}}'></div><span data-mage-init='{"emailCapture": {"url": "https://kidsland.vn/event/action/capture/"}}'></span><div class="login-container"> <div class="block block-customer-login"><div class="block-title"><strong id="block-customer-login-heading" role="heading" aria-level="2">Registered Customers</strong></div><div class="block-content" aria-labelledby="block-customer-login-heading"><form class="form form-login" action="https://kidsland.vn/customer/account/loginPost/referer/aHR0cHM6Ly9raWRzbGFuZC52bi8%2C/" method="post" id="login-form" data-mage-init='{"validation":{}}'><input name="form_key" type="hidden" value="5gfLwC8JCtVbj4TV" /> <fieldset class="fieldset login" data-hasrequired="&#x2A;&#x20;Th&#xF4;ng&#x20;tin&#x20;c&#x1EA7;n&#x20;&#x0111;i&#x1EC1;n"><div class="field note">If you have an account, sign in with your email address.</div><div class="field email required"><label class="label" for="email"><span>Email</span></label> <div class="control"><input name="login[username]" value=""  autocomplete="off" id="email" type="email" class="input-text" title="Email" data-mage-init='{"mage/trim-input":{}}' data-validate="{required:true, 'validate-email':true}"></div></div><div class="field password required"><label for="pass" class="label"><span>Mật khẩu</span></label> <div class="control"><input name="login[password]" type="password"  autocomplete="off" class="input-text" id="pass" title="M&#x1EAD;t&#x20;kh&#x1EA9;u" data-validate="{required:true}"></div></div> <div id="remember-me-box" class="field choice persistent"> <input type="checkbox" name="persistent_remember_me" class="checkbox" id="remember_meKtPMp783Th"  checked="checked"  title="Remember&#x20;Me" /><label for="remember_meKtPMp783Th" class="label"><span>Remember Me</span></label> <span class="tooltip wrapper"><strong class="tooltip toggle">Tùy chọn này có ý nghĩa gì?</strong> <span class="tooltip content">Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.</span></span></div>   <div class="actions-toolbar"><div class="primary"><button type="submit" class="action login primary" name="send" id="send2"><span>Đăng Nhập</span></button></div><div class="secondary"><a class="action remind" href="https://kidsland.vn/customer/account/forgotpassword/"><span>Bạn quên mất mật khẩu?</span></a></div></div></fieldset></form></div></div>  <div class="block block-new-customer"><div class="block-title"><strong id="block-new-customer-heading" role="heading" aria-level="2">New Customers</strong></div><div class="block-content" aria-labelledby="block-new-customer-heading"><p>Creating an account has many benefits: check out faster, keep more than one address, track orders and more.</p><div class="actions-toolbar"><div class="primary"><a href="https://kidsland.vn/customer/account/create/" class="action create primary"><span>Tạo Tài khoản</span></a></div></div></div></div></div>  </div></div></main><footer class="page-footer"> <div class="footer"> <div class="footer-top"><div class="container"><div class="row"><div class="col-lg-12"><div class="custom-block"><div class="footer-top-inner">
   <div class="row">
     <div class="col-md-5">
@@ -55,7 +55,7 @@
         </ul>
     </div>
 </div></div><div class="col-lg-3"><div class="block">
-    <div class="block-title"><strong>Hỗ trợ khách hàng</strong></div>
+    <div class="block-title"><strong>Customer support</strong></div>
     <div class="block-content">
         <ul class="features">
             <li><em class="porto-icon-ok theme-color"></em><a href="#">Câu hỏi thường gặp</a></li>
@@ -68,7 +68,7 @@
         </ul>
     </div>
 </div></div><div class="col-lg-3"><div class="block">
-    <div class="block-title"><strong>Tài khoản</strong></div>
+    <div class="block-title"><strong>Account</strong></div>
     <div class="block-content">
         <ul class="links">
             <li><em class="porto-icon-right-dir theme-color"></em><a href="https://kidsland.vn/about-porto/" title="Về chúng tôi">Về chúng tôi</a></li>
