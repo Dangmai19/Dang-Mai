@@ -1,16 +1,14 @@
 
- <!doctype html><html lang="vi"><head >  <meta charset="utf-8"/>
-<meta name="title" content="Customer Login"/>
-<meta name="description" content="MaiLand children's toy supermarket with 10,000 products imported genuine, official and safe from Japan, USA, Europe, South Korea."/>
-<meta name="keywords" content="baby toys, high quality toys, genuine toys, imported toys, genuine toys, American toys, Japanese toys, Korean toys."/>
-<meta name="robots" content="INDEX,FOLLOW"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-<meta name="format-detection" content="telephone=no"/>
-<title>Customer Login</title>
-<link  rel="stylesheet" type="text/css"  media="all" href="https://kidsland.vn/pub/static/_cache/merged/d35bd0ac7d429a04e52e4fde86c1339c.min.css" />
-<link  rel="stylesheet" type="text/css"  media="screen and (min-width: 768px)" href="https://kidsland.vn/pub/static/frontend/Smartwave/porto_child/vi_VN/css/styles-l.min.css" />
-
-
+<! doctype html> <html lang = "vi"> <head> <meta charset = "utf-8" />
+<meta name = "title" content = "Customer Login" />
+<meta name = "description" content = "MaiLand children's toy supermarket with 10,000 products imported genuine, official and safe from Japan, USA, Europe, South Korea." />
+<meta name = "keywords" content = "baby toys, high quality toys, genuine toys, imported toys, genuine toys, American toys, Japanese toys, Korean toys." />
+<meta name = "robots" content = "INDEX, FOLLOW" />
+<meta name = "viewport" content = "width = device-width, initial-scale = 1, maximum-scale = 1.0, user-scalable = no" />
+<meta name = "format-detection" content = "telephone = no" />
+<title> Customer Login </title>
+<link rel = "stylesheet" type = "text / css" media = "all" href = "https://kidsland.vn/pub/static/_cache/merged/d35bd0ac7d429a04e52e4fde86c1339c.min.css" />
+<link rel = "stylesheet" type = "text / css" media = "screen and (min-width: 768px)" href = "https://kidsland.vn/pub/static/frontend/Smartwave/porto_child/en_US/ css / styles-l.min.css "/>
 <link  rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Shadows+Into+Light" />
 <link  rel="icon" type="image/x-icon" href="https://kidsland.vn/pub/media/favicon/stores/1/favicon_1.ico" />
 <link  rel="shortcut icon" type="image/x-icon" href="https://kidsland.vn/pub/media/favicon/stores/1/favicon_1.ico" />
